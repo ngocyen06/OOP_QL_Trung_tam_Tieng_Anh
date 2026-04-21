@@ -49,6 +49,18 @@
             <mxPoint x="460" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yyAFbYhhWOk-LMZgDAlA-14" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Course" vertex="1">
+          <mxGeometry height="154" width="230" x="320" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="yyAFbYhhWOk-LMZgDAlA-15" parent="yyAFbYhhWOk-LMZgDAlA-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- courseID : string&lt;div&gt;- courseName : string&lt;/div&gt;&lt;div&gt;- fee : double&lt;/div&gt;&lt;div&gt;- students : List&amp;lt;Student&amp;gt; (aggre-ket tap)&lt;/div&gt;&lt;div&gt;- assignments : List&amp;lt;Assignment&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="230" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yyAFbYhhWOk-LMZgDAlA-16" parent="yyAFbYhhWOk-LMZgDAlA-14" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="230" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yyAFbYhhWOk-LMZgDAlA-17" parent="yyAFbYhhWOk-LMZgDAlA-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ AddStudent ( s : Student) : void" vertex="1">
+          <mxGeometry height="26" width="230" y="128" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
