@@ -166,7 +166,7 @@
             <mxPoint x="660" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaDHjB7Bv4hT08tCSOfh-16" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="IObserver&amp;nbsp;" vertex="1">
+        <mxCell id="WaDHjB7Bv4hT08tCSOfh-16" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;«interface»&lt;/div&gt;&lt;i&gt;IObserver&lt;/i&gt;" vertex="1">
           <mxGeometry height="64" width="210" x="1170" y="680" as="geometry" />
         </mxCell>
         <mxCell id="WaDHjB7Bv4hT08tCSOfh-18" parent="WaDHjB7Bv4hT08tCSOfh-16" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
