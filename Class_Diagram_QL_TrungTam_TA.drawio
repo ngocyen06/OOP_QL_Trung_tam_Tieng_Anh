@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i9GOKHM9ATjAhfCdneau-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;«abstract»&lt;/div&gt;Person" vertex="1">
+        <mxCell id="i9GOKHM9ATjAhfCdneau-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="«abstract»&lt;br&gt;&lt;i&gt;Person&lt;/i&gt;" vertex="1">
           <mxGeometry height="254" width="160" x="305" y="90" as="geometry" />
         </mxCell>
         <mxCell id="i9GOKHM9ATjAhfCdneau-2" parent="i9GOKHM9ATjAhfCdneau-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- _id : string&lt;div&gt;- _fullName : string&lt;/div&gt;&lt;div&gt;- _phone : string&lt;/div&gt;&lt;div&gt;- _email : string&lt;/div&gt;&lt;div&gt;- _dateOfBirth : DateTime&lt;/div&gt;&lt;div&gt;+ Id : string&lt;/div&gt;&lt;div&gt;+ FullName : string&lt;/div&gt;&lt;div&gt;+ Phone&lt;/div&gt;&lt;div&gt;+ Email : string&lt;/div&gt;&lt;div&gt;+ DateOfBirth&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
