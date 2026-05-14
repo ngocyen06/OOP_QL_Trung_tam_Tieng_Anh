@@ -175,7 +175,7 @@
         <mxCell id="WaDHjB7Bv4hT08tCSOfh-19" parent="WaDHjB7Bv4hT08tCSOfh-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Update(notification: string): void" vertex="1">
           <mxGeometry height="30" width="210" y="34" as="geometry" />
         </mxCell>
-        <mxCell id="WaDHjB7Bv4hT08tCSOfh-20" edge="1" parent="1" source="yyAFbYhhWOk-LMZgDAlA-2" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="WaDHjB7Bv4hT08tCSOfh-16" value="">
+        <mxCell id="WaDHjB7Bv4hT08tCSOfh-20" edge="1" parent="1" source="yyAFbYhhWOk-LMZgDAlA-2" style="endArrow=block;dashed=1;endFill=0;endSize=16;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="WaDHjB7Bv4hT08tCSOfh-16" value="">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="30" y="420" as="sourcePoint" />
             <mxPoint x="190" y="420" as="targetPoint" />
