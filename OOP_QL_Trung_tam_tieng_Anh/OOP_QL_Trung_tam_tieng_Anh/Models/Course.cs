@@ -1,11 +1,4 @@
-﻿// ============================================================
-//  FILE: Models/Course.cs
-//  Mục đích: Quản lý khóa học – Subject trong Observer Pattern.
-//  Giữ nguyên phần sinh viên đã làm, bổ sung theo diagram:
-//    level, maxStudents, kiểm tra trùng lịch 3 tầng, CSV export.
-// ============================================================
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 

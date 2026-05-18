@@ -96,7 +96,6 @@ namespace OOP_QL_Trung_tam_tieng_Anh.Models
 
         /// <summary>
         /// Kiểm tra hai lịch có trùng nhau không.
-        /// Giữ nguyên thuật toán sinh viên đã làm (Interval Overlap).
         ///
         /// LOGIC (Interval Arithmetic):
         ///   Hai khoảng [A_start, A_end) và [B_start, B_end) KHÔNG giao nhau khi:

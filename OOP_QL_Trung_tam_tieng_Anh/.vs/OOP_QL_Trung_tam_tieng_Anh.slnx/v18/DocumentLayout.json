@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\",
+  "WorkspaceRootPath": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\tests\\conflicttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\tests\\conflicttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\menus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\menus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\menus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\menus\\coursemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\menus\\coursemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\menus\\coursemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\menus\\coursemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\data\\csvhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocao_ck\\src_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\data\\csvhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\data\\csvhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D69408E-A1DA-4289-BD46-0952C0EC614D}|UnitTestProject1\\UnitTestProject1.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\tests\\conflicttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\tests\\conflicttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D69408E-A1DA-4289-BD46-0952C0EC614D}|UnitTestProject1\\UnitTestProject1.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D69408E-A1DA-4289-BD46-0952C0EC614D}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|d:\\qt\\nam_2_it\\oop_laptrinhhuongdoituong\\baocaocuoiki\\oop_ql_trung_tam_tieng_anh\\oop_ql_trung_tam_tieng_anh\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\oop_ql_trung_tam_tieng_anh\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67854966-27B9-4E50-A53E-1F83AE526A60}|OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh.csproj|solutionrelative:oop_ql_trung_tam_tieng_anh\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,56 +62,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseMenu.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\CourseMenu.cs",
-              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\CourseMenu.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\CourseMenu.cs",
-              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\CourseMenu.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAgwJgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T07:07:36.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StudentMenu.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\StudentMenu.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\StudentMenu.cs",
               "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\StudentMenu.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\StudentMenu.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\StudentMenu.cs",
               "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\StudentMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAIIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T07:07:20.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\MainMenu.cs",
-              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\MainMenu.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\MainMenu.cs",
-              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\MainMenu.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAQwEkAAABGAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Person.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Person.cs",
+              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Person.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAUwNIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T07:00:38.998Z",
+              "WhenOpened": "2026-05-18T02:57:22.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Course.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Course.cs",
+              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Course.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAYwLcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:59:19.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Schedule.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Schedule.cs",
+              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:58:44.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseMenu.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\CourseMenu.cs",
+              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\CourseMenu.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\CourseMenu.cs",
+              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\CourseMenu.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAgwJgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:07:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CsvHandler.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Data\\CsvHandler.cs",
+              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Data\\CsvHandler.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Data\\CsvHandler.cs",
+              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Data\\CsvHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T03:43:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Program.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Program.cs",
               "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Program.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Program.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Program.cs",
               "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwBwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T02:27:46.548Z",
               "EditorCaption": ""
@@ -119,119 +158,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Course.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Course.cs",
-              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\MainMenu.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Menus\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T02:59:19.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Schedule.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Schedule.cs",
-              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Schedule.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Schedule.cs",
-              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Schedule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T02:58:44.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConflictTest.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Tests\\ConflictTest.cs",
-              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Tests\\ConflictTest.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Tests\\ConflictTest.cs",
-              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Tests\\ConflictTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T07:25:09.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Person.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Models\\Person.cs",
-              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T02:57:22.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\UnitTestProject1\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\UnitTestProject1\\UnitTest1.cs",
-              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T04:52:23.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CsvHandler.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Data\\CsvHandler.cs",
-              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Data\\CsvHandler.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Data\\CsvHandler.cs",
-              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Data\\CsvHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T03:43:05.084Z",
+              "WhenOpened": "2026-05-18T07:00:38.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ConflictTest.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Tests\\ConflictTest.cs",
+              "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Tests\\ConflictTest.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Tests\\ConflictTest.cs",
+              "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Tests\\ConflictTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:25:09.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T04:52:23.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "QuizService.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Services\\QuizService.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Services\\QuizService.cs",
               "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Services\\QuizService.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Services\\QuizService.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Services\\QuizService.cs",
               "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Services\\QuizService.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T03:43:55.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T03:43:55.354Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Interfaces.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Interfaces.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Interfaces.cs",
               "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Interfaces.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Interfaces.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Interfaces.cs",
               "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Interfaces.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T03:02:14.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T03:02:14.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Exceptions.cs",
-              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Exceptions.cs",
+              "DocumentMoniker": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Exceptions.cs",
               "RelativeDocumentMoniker": "OOP_QL_Trung_tam_tieng_Anh\\Exceptions.cs",
-              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCaoCuoiKi\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Exceptions.cs",
+              "ToolTip": "D:\\QT\\Nam_2_IT\\OOP_LapTrinhHuongDoiTuong\\BaoCao_CK\\src_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\OOP_QL_Trung_tam_tieng_Anh\\Exceptions.cs",
               "RelativeToolTip": "OOP_QL_Trung_tam_tieng_Anh\\Exceptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T03:02:48.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T03:02:48.756Z"
             }
           ]
         }

@@ -91,6 +91,8 @@ namespace OOP_QL_Trung_tam_tieng_Anh.Menus
             Console.Write("Nhập họ và tên học viên: ");
             string name = Console.ReadLine().Trim();
 
+            // Nếu Class Student không cần dùng đến Tuổi, bạn có thể xóa đoạn nhập tuổi này đi.
+            // Ngược lại, nếu Constructor cần tuổi, bạn phải truyền thêm `age` vào sau.
             Console.Write("Nhập tuổi học viên: ");
             int age = 0;
             while (!int.TryParse(Console.ReadLine(), out age) || age <= 0)
@@ -100,13 +102,24 @@ namespace OOP_QL_Trung_tam_tieng_Anh.Menus
                 Console.ResetColor();
             }
 
+            // 1. BỔ SUNG: Nhập Email học viên
+            Console.Write("Nhập email học viên: ");
+            string email = Console.ReadLine().Trim();
+
+            // 2. GIỮ NGUYÊN: Nhập Số điện thoại
             Console.Write("Nhập số điện thoại: ");
             string phone = Console.ReadLine().Trim();
 
+            // Nhập Trình độ (Nếu class Student có thuộc tính Level, bạn có thể gán sau khi tạo object)
             Console.Write("Nhập trình độ hiện tại (Ví dụ: A1, A2, B1, B2): ");
             string level = Console.ReadLine().Trim().ToUpper();
 
-            Student newStudent = new Student(id, name, phone, level);
+            // 3. SỬA LẠI: Truyền đúng thứ tự (id, name, email, phone) theo Constructor yêu cầu
+            Student newStudent = new Student(id, name, email, phone);
+
+            // Nếu trong class Student của bạn có thuộc tính Level, hãy gán thêm dòng này:
+            // newStudent.Level = level; 
+
             Program.students.Add(newStudent);
 
             Console.ForegroundColor = ConsoleColor.Green;

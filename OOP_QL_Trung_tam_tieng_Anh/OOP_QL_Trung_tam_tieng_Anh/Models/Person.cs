@@ -1,18 +1,11 @@
-﻿// ============================================================
-//  FILE: Models/Person.cs
-//  Phần này GIỮ NGUYÊN code sinh viên đã viết, chỉ bổ sung
-//  thêm Phone, DateOfBirth theo Class Diagram và các method
-//  cần thiết cho phần mở rộng.
-// ============================================================
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace OOP_QL_Trung_tam_tieng_Anh.Models
 {
-    // ============================================================
-    //  ABSTRACT CLASS Person  (Giữ nguyên cấu trúc sinh viên làm)
-    // ============================================================
+    // =========================
+    //  ABSTRACT CLASS Person  
+    // =========================
 
     /// <summary>
     /// Lớp trừu tượng là nền tảng kế thừa (Inheritance) cho toàn hệ thống.
@@ -27,15 +20,15 @@ namespace OOP_QL_Trung_tam_tieng_Anh.Models
         private string _name;      // FullName trong diagram, alias Name (giữ compat)
         private string _email;
         private string _phone;
-        private DateTime _dateOfBirth;
+        //private DateTime _dateOfBirth;
 
         // ── Public Properties ────────────────────────────────────
         public string Id { get => _id; protected set => _id = value; }
         public string Name { get => _name; set => _name = value; }   // backward-compat
-        public string FullName { get => _name; set => _name = value; }   // per diagram
+        //public string FullName { get => _name; set => _name = value; }   // per diagram
         public string Email { get => _email; set => _email = value; }
         public string Phone { get => _phone; set => _phone = value; }
-        public DateTime DateOfBirth { get => _dateOfBirth; set => _dateOfBirth = value; }
+        //public DateTime DateOfBirth { get => _dateOfBirth; set => _dateOfBirth = value; }
 
         protected Person(string id, string name, string email, string phone = "")
         {
@@ -53,9 +46,9 @@ namespace OOP_QL_Trung_tam_tieng_Anh.Models
         public override string ToString() => GetInfo();
     }
 
-    // ============================================================
-    //  CLASS Student  (Giữ nguyên + bổ sung theo diagram)
-    // ============================================================
+    // ===============
+    //  CLASS Student  
+    // ===============
 
     /// <summary>
     /// Học viên kế thừa Person và implement IObserver.
@@ -126,9 +119,9 @@ namespace OOP_QL_Trung_tam_tieng_Anh.Models
         }
     }
 
-    // ============================================================
-    //  CLASS Teacher  (Giữ nguyên + bổ sung theo diagram)
-    // ============================================================
+    // ===============
+    //  CLASS Teacher  
+    // ===============
 
     /// <summary>
     /// Giáo viên kế thừa Person.
